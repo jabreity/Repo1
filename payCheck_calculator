@@ -1,0 +1,4 @@
+function payCheck(x,y,z,n){
+	console.log((x*z)-(x*y)*n);
+}
+/*x=$/hr; y=$ taken out for taxes; z= #of hours worked/wk; n=# of wks/paycheck*/
