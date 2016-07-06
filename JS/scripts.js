@@ -101,7 +101,7 @@ stephenMcCune.fullname = "Stephen McCune";
 stephenMcCune.age = 23;
 stephenMcCune.married = false;
 stephenMcCune.vocation = "Student at Purdue University";
-stephenMcCune.yearsKnown = 20;
+stephenMcCune.yearsKnown = 15;
 
 var kevinGrabert = Object.create(friend);
 kevinGrabert.fullname = "Kevin Grabert"; 
@@ -130,6 +130,13 @@ daltonTishner.age = 19;
 daltonTishner.married = false;
 daltonTishner.vocation = "Donkey-Show Performer";
 daltonTishner.yearsKnown = 7;
+
+var johnLawless = Object.create(friend);
+johnLawless.fullname = "Johnny Lawless";
+johnLawless.age = "18";
+johnLawless.married = "false";
+johnLawless.vocation = "Airman 1st Class"
+johnLawless.yearsKnown = "15"
 
 
 
